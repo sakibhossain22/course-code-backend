@@ -1,0 +1,341 @@
+
+[
+    {
+      "_id": "66399b18d8fecea099af2927",
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/Sdmqvw6/lautaro-andreani-xk-Baqlcqeb4-unsplash-1.jpg",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af2928",
+      "id": 2,
+      "name": "Advanced React Native Techniques",
+      "instructor": "Jane Smith",
+      "description": "Take your React Native skills to the next level with advanced techniques and best practices.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/F4PRxCv/jest-redux.png",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Solid understanding of React Native fundamentals"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Redux Integration",
+          "content": "Integrating Redux for state management in React Native applications."
+        },
+        {
+          "week": 2,
+          "topic": "Navigation Patterns",
+          "content": "Exploring different navigation patterns and libraries in React Native."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af2929",
+      "id": 3,
+      "name": "Mastering Node.js",
+      "instructor": "Alice Johnson",
+      "description": "Learn how to build scalable web applications with Node.js.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/VpphpTL/maxresdefault-3.jpg",
+      "duration": "12 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic JavaScript knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Node.js",
+          "content": "Overview of Node.js, asynchronous programming."
+        },
+        {
+          "week": 2,
+          "topic": "Express.js Framework",
+          "content": "Building web servers and RESTful APIs with Express.js."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af292a",
+      "id": 4,
+      "name": "Python for Data Science",
+      "instructor": "Michael Brown",
+      "description": "Learn Python programming language for data science applications.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/stGhCJP/python-for-data-science-course.jpg",
+      "duration": "6 weeks",
+      "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Python",
+          "content": "Basic syntax, data types, and control flow."
+        },
+        {
+          "week": 2,
+          "topic": "Data Analysis with Pandas",
+          "content": "Introduction to the Pandas library for data manipulation."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af292b",
+      "id": 5,
+      "name": "Machine Learning Fundamentals",
+      "instructor": "Emily White",
+      "description": "An introduction to machine learning algorithms and techniques.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/zr3RPwS/machine-learning-banner-2.png",
+      "duration": "8 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic knowledge of Python"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Machine Learning",
+          "content": "Overview of supervised and unsupervised learning."
+        },
+        {
+          "week": 2,
+          "topic": "Linear Regression",
+          "content": "Fundamentals of linear regression and gradient descent."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af292c",
+      "id": 6,
+      "name": "Web Development with React",
+      "instructor": "Chris Thompson",
+      "description": "Learn how to build modern web applications using React.js.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/TLKvgXT/React-for-Web-Development-1024x605.png",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic HTML/CSS knowledge",
+        "Familiarity with JavaScript"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React",
+          "content": "Overview of React, JSX syntax, and components."
+        },
+        {
+          "week": 2,
+          "topic": "State Management with Redux",
+          "content": "Managing application state using Redux."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af292d",
+      "id": 7,
+      "name": "Data Structures and Algorithms in C++",
+      "instructor": "David Wilson",
+      "description": "Learn essential data structures and algorithms using the C++ programming language.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/y45Xxpy/algorithms-and-data-structures-banner.png",
+      "duration": "12 weeks",
+      "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic knowledge of C++"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Data Structures",
+          "content": "Overview of arrays, linked lists, and stacks."
+        },
+        {
+          "week": 2,
+          "topic": "Sorting Algorithms",
+          "content": "Different sorting algorithms: bubble sort, insertion sort, merge sort."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af292e",
+      "id": 8,
+      "name": "Digital Marketing Fundamentals",
+      "instructor": "Sarah Davis",
+      "description": "An overview of digital marketing strategies and techniques.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/wcRjQvr/1703870573777.jpg",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 8:00 PM - 10:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "None"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Digital Marketing",
+          "content": "Overview of digital marketing channels and strategies."
+        },
+        {
+          "week": 2,
+          "topic": "Search Engine Optimization (SEO)",
+          "content": "Optimizing website content to improve search engine rankings."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af292f",
+      "id": 9,
+      "name": "iOS App Development with Swift",
+      "instructor": "Kevin Johnson",
+      "description": "Learn how to develop iOS applications using the Swift programming language.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/Xtwfxf2/ios-app-development.jpg",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic programming knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to iOS Development",
+          "content": "Overview of iOS development environment, Xcode."
+        },
+        {
+          "week": 2,
+          "topic": "Swift Programming Basics",
+          "content": "Basic syntax, data types, and control flow in Swift."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af2930",
+      "id": 10,
+      "name": "Full-Stack Web Development with MERN",
+      "instructor": "Mark Taylor",
+      "description": "Learn how to build full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/3y4SnJ1/mern-stack-training-in-bangalore.jpg",
+      "duration": "12 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic JavaScript knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Setting Up Your Development Environment",
+          "content": "Installing MongoDB, Node.js, and setting up the project structure."
+        },
+        {
+          "week": 2,
+          "topic": "Building RESTful APIs with Express.js",
+          "content": "Creating endpoints for CRUD operations."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af2931",
+      "id": 11,
+      "name": "Ethical Hacking and Cybersecurity",
+      "instructor": "Alex Turner",
+      "description": "Learn ethical hacking techniques and cybersecurity best practices.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/Y0rrThP/maxresdefault-4.jpg",
+      "duration": "10 weeks",
+      "schedule": "Saturdays, 4:00 PM - 6:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic knowledge of computer networks"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Ethical Hacking",
+          "content": "Overview of ethical hacking, legal aspects, and hacker mindset."
+        },
+        {
+          "week": 2,
+          "topic": "Footprinting and Reconnaissance",
+          "content": "Gathering information about the target system."
+        }
+      ],
+      "student" : []
+    },
+    {
+      "_id": "66399b18d8fecea099af2932",
+      "id": 12,
+      "name": "Blockchain Fundamentals",
+      "instructor": "Ryan Clark",
+      "description": "An introduction to blockchain technology and cryptocurrencies.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://i.ibb.co/Y0rrThP/maxresdefault-4.jpg",
+      "duration": "8 weeks",
+      "schedule": "Sundays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic understanding of computer science"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Blockchain",
+          "content": "Overview of blockchain technology, decentralized networks."
+        },
+        {
+          "week": 2,
+          "topic": "Bitcoin and Cryptocurrencies",
+          "content": "Understanding Bitcoin, Ethereum, and other cryptocurrencies."
+        }
+      ],
+      "student" : []
+    }
+  ]
